@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, express**
 
-- 📫 How to reach me **ímvert1998@gmail.com**
+- 📫 How to reach me **imvert1998@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/alexanderpilatuña](www.linkedin.com/in/alexanderpilatuña)
 
