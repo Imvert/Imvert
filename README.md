@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander Pilatuña</h1>
 <h3 align="center">A passionate Full Stack developer from Ecuador 🇪🇨</h3>
 
-- 🔭 I’m currently working on [Developing](github.com/Imvert)
+- 🔭 I’m currently working on Frelance
 
 - 🌱 I’m currently learning **TypeScript**
 
